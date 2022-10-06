@@ -1,2 +1,7 @@
 # exercicioLista
 Exercicios - Estrutura de dados - LISTAS (Curso Python Para Todos)
+
+1- Escreva um programa que solicite vários números ao usuário, sendo um de cada vez, possibilitando encerrar a entrada de dados informando zero. Adicione os números informados em uma lista e, ao final do programa, imprima a soma de todos os números, a multiplicação de todos os números, o maior e o menor número informado.
+2- Escreva um programa que solicite várias palavras ao usuário, sendo uma de cada vez, possibilitando encerrar a entrada de dados informando zero. Adicione as palavras informadas em uma lista. Após o usuário informar “0” (zero), solicite a palavra que ele deseja contar. Desta forma, o programa deverá contar as ocorrências daquela palavra. Ao final imprima o resultado.
+3-Escreva um programa que solicite vários números ao usuário, sendo um de cada vez, possibilitando encerrar a entrada de dados informando zero. Adicione os números em uma lista, crie uma outra lista contendo os números sem repetição (esta lista conterá somente uma ocorrência de cada número digitado, sem repetição) e uma outra contendo os números que se repetem na primeira lista.
+4-Escreva um programa que solicite vários números ao usuário, sendo um de cada vez, possibilitando encerrar a entrada de dados informando zero. Armazene os números em uma lista, depois percorra esta lista alimentando outras duas listas, uma com números pares e outra com números ímpares. Imprima o resultado.
